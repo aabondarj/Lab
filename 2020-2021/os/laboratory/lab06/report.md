@@ -1,7 +1,7 @@
 ---
 # Front matter
 lang: ru-RU
-title: "Лабораторная работа №3"
+title: "Лабораторная работа №6"
 subtitle: "Отчет"
 author: "Бондарь Алексей Олегович"
 
