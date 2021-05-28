@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №3
+title: Лабораторная работа №11
 author: |
 	Бондарь Алексей Олегович НПМбд-01-20\inst{1}
 institute: |
